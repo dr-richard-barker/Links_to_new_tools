@@ -1,15 +1,15 @@
 # Table of contents
 
-* [Stress Knowledge Map!](README.md)
+* [A collection of tools that help us understand plants](README.md)
+* [Stress Knowledge Map!](<README (1).md>)
 * [Knetminer](knetminer.md)
 * [Add more tools here over time...](add-more-tools-here-over-time....md)
 * [Metascape](metascape.md)
 * [iDEP97](idep97.md)
 * [GAIA](gaia.md)
-* [Flux Estimator](flux-estimator.md)
 * [sRNAbench](srnabench.md)
 * [Enrichr](enrichr.md)
 * [CAVE](cave.md)
 * [g:Profiler](g-profiler.md)
 * [OrthoVenn3](orthovenn3.md)
-* [Flux estimator (corn, mice and humans)](flux-estimator-corn-mice-and-humans.md)
+* [Flux Estimator](flux-estimator.md)

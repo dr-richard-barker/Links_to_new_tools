@@ -1,11 +1,8 @@
-# Stress Knowledge Map!
+# A collection of tools that help us understand plants
+
+Link to github: [https://github.com/dr-richard-barker/Links\_to\_new\_tools](https://github.com/dr-richard-barker/Links\_to\_new\_tools)
 
 
 
-This tool has lots of poentienal for exploring interactions between stress response networks.&#x20;
+<figure><img src=".gitbook/assets/Plant_computer.jpg" alt="" width="375"><figcaption></figcaption></figure>
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-[https://skm.nib.si/](https://skm.nib.si/)
-
-{% embed url="https://skm.nib.si/" %}
