@@ -3,7 +3,6 @@
 * [A collection of tools that help us understand plants](README.md)
 * [Stress Knowledge Map!](<README (1).md>)
 * [Knetminer](knetminer.md)
-* [Add more tools here over time...](add-more-tools-here-over-time....md)
 * [Metascape](metascape.md)
 * [iDEP97](idep97.md)
 * [GAIA](gaia.md)
@@ -13,3 +12,5 @@
 * [g:Profiler](g-profiler.md)
 * [OrthoVenn3](orthovenn3.md)
 * [Flux Estimator](flux-estimator.md)
+* [Please add more tools here over time...](please-add-more-tools-here-over-time....md)
+* [Plant reactome pathway browser](plant-reactome-pathway-browser.md)
