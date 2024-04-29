@@ -14,3 +14,4 @@
 * [Flux Estimator](flux-estimator.md)
 * [Please add more tools here over time...](please-add-more-tools-here-over-time....md)
 * [Plant reactome pathway browser](plant-reactome-pathway-browser.md)
+* [Create a chatbot to help guide paper writing for OSDR AWG.](create-a-chatbot-to-help-guide-paper-writing-for-osdr-awg..md)
