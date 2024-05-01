@@ -16,3 +16,5 @@
 * [Plant reactome pathway browser](plant-reactome-pathway-browser.md)
 * [Create a chatbot to help guide paper writing for OSDR AWG.](create-a-chatbot-to-help-guide-paper-writing-for-osdr-awg..md)
 * [NASA SDE](nasa-sde.md)
+* [Tree of life](tree-of-life.md)
+* [Langflow (Make a chat bot)](langflow-make-a-chat-bot.md)
