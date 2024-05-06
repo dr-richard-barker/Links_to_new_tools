@@ -19,3 +19,4 @@
 * [Tree of life](tree-of-life.md)
 * [Langflow (Make a chat bot)](langflow-make-a-chat-bot.md)
 * [Area proportional venn](area-proportional-venn.md)
+* [EDGE Bioinformatics for metatranscriptomics.](edge-bioinformatics-for-metatranscriptomics..md)
