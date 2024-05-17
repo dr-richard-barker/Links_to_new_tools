@@ -12,4 +12,4 @@ Link to paper coming latter this year...&#x20;
 
 {% embed url="https://knetminer.com/beta/knetspace/network/6c401b01-b4f6-49b0-bb76-2c444fe1380d" %}
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
