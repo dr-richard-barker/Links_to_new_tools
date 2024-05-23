@@ -23,3 +23,4 @@
 * [Scholar. AI](scholar.-ai.md)
 * [Please add more tools here over time...](please-add-more-tools-here-over-time....md)
 * [Alpha fold original or new synthesis](alpha-fold-original-or-new-synthesis.md)
+* [ChIPHub](chiphub.md)
