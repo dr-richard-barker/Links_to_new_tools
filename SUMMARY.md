@@ -1,11 +1,13 @@
 # Table of contents
 
 * [A collection of tools that help us understand plants](README.md)
+* [ChIPHub](chiphub.md)
 * [Single cell Plant database](single-cell-plant-database.md)
 * [Stress Knowledge Map!](<README (1).md>)
 * [Knetminer](knetminer.md)
 * [Metascape](metascape.md)
 * [iDEP97](idep97.md)
+* [DEVEA shiny](devea-shiny.md)
 * [GAIA](gaia.md)
 * [sRNAbench](srnabench.md)
 * [Enrichr](enrichr.md)
@@ -23,4 +25,4 @@
 * [Scholar. AI](scholar.-ai.md)
 * [Please add more tools here over time...](please-add-more-tools-here-over-time....md)
 * [Alpha fold original or new synthesis](alpha-fold-original-or-new-synthesis.md)
-* [ChIPHub](chiphub.md)
+* [Time-series single cell transcriptomic atlas for Arabidopsis de-etiolating seedlings.](time-series-single-cell-transcriptomic-atlas-for-arabidopsis-de-etiolating-seedlings..md)
