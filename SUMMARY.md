@@ -27,3 +27,4 @@
 * [Alpha fold original or new synthesis](alpha-fold-original-or-new-synthesis.md)
 * [Time-series single cell transcriptomic atlas for Arabidopsis de-etiolating seedlings.](time-series-single-cell-transcriptomic-atlas-for-arabidopsis-de-etiolating-seedlings..md)
 * [Many systems biology tools](many-systems-biology-tools.md)
+* [Shiny Nutrition calculator](shiny-nutrition-calculator.md)
