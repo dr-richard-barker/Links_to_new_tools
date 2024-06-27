@@ -17,7 +17,7 @@
 * [Flux Estimator](flux-estimator.md)
 * [Plant reactome pathway browser](plant-reactome-pathway-browser.md)
 * [Create a chatbot to help guide paper writing for OSDR AWG.](create-a-chatbot-to-help-guide-paper-writing-for-osdr-awg..md)
-* [NASA SDE](nasa-sde.md)
+* [NASA Science Discovery Engine](nasa-science-discovery-engine.md)
 * [Tree of life](tree-of-life.md)
 * [Langflow (Make a chat bot)](langflow-make-a-chat-bot.md)
 * [Area proportional venn](area-proportional-venn.md)
@@ -28,3 +28,4 @@
 * [Time-series single cell transcriptomic atlas for Arabidopsis de-etiolating seedlings.](time-series-single-cell-transcriptomic-atlas-for-arabidopsis-de-etiolating-seedlings..md)
 * [Many systems biology tools](many-systems-biology-tools.md)
 * [Shiny Nutrition calculator](shiny-nutrition-calculator.md)
+* [IntLIM 2.0: identifying multi-omic relationships dependent on discrete or continuous phenotypic meas](intlim-2.0-identifying-multi-omic-relationships-dependent-on-discrete-or-continuous-phenotypic-meas.md)
