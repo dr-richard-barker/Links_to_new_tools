@@ -1,6 +1,10 @@
-# Tree of life
+---
+description: This tool is pretty and fun to play with
+---
 
-<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+# WebApp - Tree of life
+
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

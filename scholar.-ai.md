@@ -8,7 +8,7 @@ Link to scholar [https://scholarai.io/](https://scholarai.io/)
 
 Plug these in or use as inspiration to get going&#x20;
 
-_(Hint: Click on each prompt to see ScholarAI's response)✨_
+_(Hint: Click on each prompt to see ScholarAI's response, or change to related to your area of interest)✨_
 
 [Health and Medicine"Generate a citation for the most recent meta-analysis on the effectiveness of intermittent fasting on cardiovascular health and include it in my citation manager."](https://chat.openai.com/share/f1852763-3e7d-41c6-8d03-d24391ee0a68)
 

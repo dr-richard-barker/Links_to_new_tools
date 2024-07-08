@@ -1,6 +1,6 @@
 ---
 description: >-
-  CAVE is a Cloud-based platform for Analysis and Visualization of mEtabolic
+  CAVE is a Cloud-based platform for Analysis and Visualization of Metabolic
   pathway.
 ---
 

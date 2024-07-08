@@ -2,7 +2,7 @@
 description: Submit your gene set for enrichment analysis with  Enrichr
 ---
 
-# Enrichr
+# WebApp - Enrichr
 
 
 
@@ -10,7 +10,5 @@ description: Submit your gene set for enrichment analysis with  Enrichr
 [https://maayanlab.cloud/enrichr-kg](https://maayanlab.cloud/enrichr-kg)
 {% endembed %}
 
-{% embed url="https://github.com/MaayanLab/gene-knowledge-graph" %}
-[https://github.com/MaayanLab/gene-knowledge-graph](https://github.com/MaayanLab/gene-knowledge-graph)
-{% endembed %}
+{% @github-files/github-code-block url="https://github.com/MaayanLab/gene-knowledge-graph" %}
 
