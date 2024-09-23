@@ -34,3 +34,4 @@
 * [Many systems biology tools in this portal](many-systems-biology-tools-in-this-portal.md)
 * [Shiny Nutrition calculator](shiny-nutrition-calculator.md)
 * [Scholar tool Researchrabbit.ai](scholar-tool-researchrabbit.ai.md)
+* [Plant connectome](plant-connectome.md)
