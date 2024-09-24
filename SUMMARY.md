@@ -35,3 +35,4 @@
 * [Shiny Nutrition calculator](shiny-nutrition-calculator.md)
 * [Scholar tool Researchrabbit.ai](scholar-tool-researchrabbit.ai.md)
 * [Plant connectome](plant-connectome.md)
+* [Microbiome analysis tools in the cloud](microbiome-analysis-tools-in-the-cloud.md)
