@@ -12,6 +12,7 @@
   * [WebApp - Metascape](multi-gene-list-enrichment-analysis-tools/webapp-metascape.md)
   * [WebApp - Enrichr](multi-gene-list-enrichment-analysis-tools/webapp-enrichr.md)
   * [WebApp: Plant reactome pathway browser](multi-gene-list-enrichment-analysis-tools/webapp-plant-reactome-pathway-browser.md)
+  * [Root cell atlas](multi-gene-list-enrichment-analysis-tools/root-cell-atlas.md)
 * [Integrated RNAseq analysis applications](integrated-rnaseq-analysis-applications/README.md)
   * [Shiny App - DEVEA](integrated-rnaseq-analysis-applications/shiny-app-devea.md)
   * [iDEP.96](integrated-rnaseq-analysis-applications/idep.96.md)
